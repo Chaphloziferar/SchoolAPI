@@ -1,0 +1,17 @@
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\SchoolBLL.deps.json
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\SchoolBLL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\SchoolBLL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\Entities.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\SchoolDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\Entities.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\bin\Debug\net6.0\SchoolDAL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.csproj.AssemblyReference.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.AssemblyInfoInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.AssemblyInfo.cs
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.csproj.CoreCompileInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.csproj.CopyComplete
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\refint\SchoolBLL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\SchoolBLL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolBLL\obj\Debug\net6.0\ref\SchoolBLL.dll

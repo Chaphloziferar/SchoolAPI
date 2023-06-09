@@ -1,0 +1,15 @@
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\bin\Release\net6.0\SchoolDAL.deps.json
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\bin\Release\net6.0\SchoolDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\bin\Release\net6.0\SchoolDAL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\bin\Release\net6.0\Entities.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\bin\Release\net6.0\Entities.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.csproj.AssemblyReference.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.AssemblyInfoInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.AssemblyInfo.cs
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.csproj.CopyComplete
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\refint\SchoolDAL.dll
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\SchoolDAL.pdb
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolDAL\obj\Release\net6.0\ref\SchoolDAL.dll

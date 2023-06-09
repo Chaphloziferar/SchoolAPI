@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolAPI</name>
+    </assembly>
+    <members>
+        <member name="M:SchoolAPI.Controllers.ClassesController.GetAllClasses">
+            <summary>
+            Retorna una lista de todas las clases.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.ClassesController.GetClassById(System.Int32)">
+            <summary>
+            Obtiene una clase por su ID.
+            </summary>
+            <param name="classId">ID de la clase.</param>
+            <returns><see cref="T:Entities.Class"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.ClassesController.CreateClass(Entities.Class)">
+            <summary>
+            Crea una nueva clase.
+            </summary>
+            <param name="class">Datos de la clase.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.ClassesController.UpdateClass(Entities.Class)">
+            <summary>
+            Editar una clase.
+            </summary>
+            <param name="class">Datos de la clase.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.ClassesController.DeleteClass(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminada una clase.
+            </summary>
+            <param name="classId">ID de la clase.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EnrollmentsController.GetAllEnrollments">
+            <summary>
+            Retorna una lista de todas las inscripciones.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EnrollmentsController.GetClassById(System.Int32)">
+            <summary>
+            Obtiene una inscripcion por su ID.
+            </summary>
+            <param name="enrollmentId">ID de la inscripcion.</param>
+            <returns><see cref="T:Entities.Enrollment"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EnrollmentsController.CreateClass(Entities.Enrollment)">
+            <summary>
+            Crea una nueva inscripcion.
+            </summary>
+            <param name="enrollment">Datos de la inscripcion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EnrollmentsController.UpdateClass(Entities.Enrollment)">
+            <summary>
+            Editar una inscripcion.
+            </summary>
+            <param name="enrollment">Datos de la inscripcion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EnrollmentsController.DeleteClass(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminada una inscripcion.
+            </summary>
+            <param name="enrollmentId">ID de la inscripcion.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EvaluationsController.GetAllEvaluations">
+            <summary>
+            Retorna una lista de todas las evaluaciones.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EvaluationsController.GetEvaluationById(System.Int32)">
+            <summary>
+            Obtiene una evaluacion por su ID.
+            </summary>
+            <param name="evaluationId">ID de la evaluacion.</param>
+            <returns><see cref="T:Entities.Evaluation"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EvaluationsController.CreateEvaluation(Entities.Evaluation)">
+            <summary>
+            Crea una nueva evaluacion.
+            </summary>
+            <param name="evaluation">Datos de la evaluacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EvaluationsController.UpdateEvaluation(Entities.Evaluation)">
+            <summary>
+            Editar una evaluacion.
+            </summary>
+            <param name="evaluation">Datos de la evaluacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.EvaluationsController.DeleteEvaluation(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminada una evaluacion.
+            </summary>
+            <param name="evaluationId">ID de la evaluacion.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.GradesController.GetAllEnrollments">
+            <summary>
+            Retorna una lista de todas las notas.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.GradesController.GetGradeById(System.Int32)">
+            <summary>
+            Obtiene una nota por su ID.
+            </summary>
+            <param name="gradeId">ID de la nota.</param>
+            <returns><see cref="T:Entities.Grade"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.GradesController.CreateClass(Entities.Grade)">
+            <summary>
+            Crea una nueva nota.
+            </summary>
+            <param name="grade">Datos de la nota.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.GradesController.UpdateGrade(Entities.Grade)">
+            <summary>
+            Editar una nota.
+            </summary>
+            <param name="grade">Datos de la nota.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.GradesController.DeleteGrade(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminada una nota.
+            </summary>
+            <param name="classId">ID de la nota.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.StudentsController.GetAllStudents">
+            <summary>
+            Retorna una lista de todos los estudiantes.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.StudentsController.GetStudentById(System.Int32)">
+            <summary>
+            Obtiene un estudiante por su ID.
+            </summary>
+            <param name="studentId">ID del estudiante.</param>
+            <returns><see cref="T:Entities.Student"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.StudentsController.CreateStudent(Entities.Student)">
+            <summary>
+            Crea un nuevo estudiante.
+            </summary>
+            <param name="student">Datos del estudiante.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.StudentsController.UpdateStudent(Entities.Student)">
+            <summary>
+            Editar a un estudiante.
+            </summary>
+            <param name="student">Datos del estudiante.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.StudentsController.DeleteStudent(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminado a un usuario.
+            </summary>
+            <param name="studentId">ID del usuario.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.TeachersController.GetAllTeachers">
+            <summary>
+            Retorna una lista de todos los docentes.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.TeachersController.GetTeacherById(System.Int32)">
+            <summary>
+            Obtiene un docente por su ID.
+            </summary>
+            <param name="teacherId">ID del docente.</param>
+            <returns><see cref="T:Entities.Teacher"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.TeachersController.CreateTeacher(Entities.Teacher)">
+            <summary>
+            Crea un nuevo docente.
+            </summary>
+            <param name="teacher">Datos del docente.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.TeachersController.UpdateTeacher(Entities.Teacher)">
+            <summary>
+            Editar a un docente.
+            </summary>
+            <param name="teacher">Datos del docente.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.TeachersController.DeleteTeacher(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminado a un docente.
+            </summary>
+            <param name="teacherId">ID del usuario.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.UsersController.GetAllUsers">
+            <summary>
+            Retorna una lista de todos los usuarios.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.UsersController.GetUserById(System.Int32)">
+            <summary>
+            Obtiene un usuario por su ID.
+            </summary>
+            <param name="id">ID del usuario.</param>
+            <returns><see cref="T:Entities.User"/>></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.UsersController.CreateUser(Entities.User)">
+            <summary>
+            Crea un nuevo usuario.
+            </summary>
+            <param name="user">Datos del usuario.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.UsersController.UpdateUserType(System.Int32,System.String)">
+            <summary>
+            Editar el rol de un usuario.
+            </summary>
+            <param name="userId">ID del usuario.</param>
+            <param name="userType">Rol del usuario.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolAPI.Controllers.UsersController.DeleteUser(System.Int32,System.String)">
+            <summary>
+            Marcar como eliminado a un usuario.
+            </summary>
+            <param name="userId">ID del usuario.</param>
+            <param name="deletedDate">Fecha de eliminacion.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
