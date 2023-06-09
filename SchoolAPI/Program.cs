@@ -2,9 +2,18 @@ using Microsoft.OpenApi.Models;
 using System.Reflection;
 using SchoolAPI.Configuration;
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
 
 builder.Services.AddControllers();
 
@@ -34,6 +43,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseAuthorization();
 

@@ -7,5 +7,99 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5122.site4now.net:21/schoolwebapi</_PublishTargetUrl>
+    <History>True|2023-06-09T06:48:33.7459107Z;True|2023-06-09T00:44:45.1077615-06:00;False|2023-06-09T00:43:18.4006857-06:00;False|2023-06-09T00:42:54.3946271-06:00;True|2023-06-09T00:38:53.0114388-06:00;False|2023-06-09T00:37:09.9863286-06:00;</History>
+    <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/06/2023 23:07:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/06/2023 23:22:57</publishTime>
+    </File>
+    <File Include="appsettings.production.json">
+      <publishTime>06/09/2023 00:47:24</publishTime>
+    </File>
+    <File Include="Entities.dll">
+      <publishTime>06/08/2023 22:46:18</publishTime>
+    </File>
+    <File Include="Entities.pdb">
+      <publishTime>06/08/2023 22:46:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>10/18/2022 10:19:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/18/2022 10:19:10</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 14:14:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:26:02</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:26:08</publishTime>
+    </File>
+    <File Include="SchoolAPI.deps.json">
+      <publishTime>06/09/2023 00:47:17</publishTime>
+    </File>
+    <File Include="SchoolAPI.dll">
+      <publishTime>06/09/2023 00:47:17</publishTime>
+    </File>
+    <File Include="SchoolAPI.exe">
+      <publishTime>06/09/2023 00:47:17</publishTime>
+    </File>
+    <File Include="SchoolAPI.pdb">
+      <publishTime>06/09/2023 00:47:17</publishTime>
+    </File>
+    <File Include="SchoolAPI.runtimeconfig.json">
+      <publishTime>06/08/2023 22:46:19</publishTime>
+    </File>
+    <File Include="SchoolAPI.xml">
+      <publishTime>06/09/2023 00:47:17</publishTime>
+    </File>
+    <File Include="SchoolBLL.dll">
+      <publishTime>06/08/2023 22:46:19</publishTime>
+    </File>
+    <File Include="SchoolBLL.pdb">
+      <publishTime>06/08/2023 22:46:19</publishTime>
+    </File>
+    <File Include="SchoolDAL.dll">
+      <publishTime>06/08/2023 22:46:18</publishTime>
+    </File>
+    <File Include="SchoolDAL.pdb">
+      <publishTime>06/08/2023 22:46:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 06:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 06:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 06:54:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:16:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/09/2023 00:47:24</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Data Source=SQL5097.site4now.net%3bInitial Catalog=db_a97ba5_schooldb%3bPersist Security Info=True%3bUser ID=db_a97ba5_schooldb_admin%3bPassword=password123%3bTrustServerCertificate=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>
