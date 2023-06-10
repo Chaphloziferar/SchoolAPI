@@ -144,6 +144,13 @@
             <param name="deletedDate">Fecha de eliminacion.</param>
             <returns></returns>
         </member>
+        <member name="M:SchoolAPI.Controllers.StudentGradesController.GetAllStudentsGradesById(System.Int32)">
+            <summary>
+            Obtiene la lista de notas por estudiante buscando por ID.
+            </summary>
+            <param name="studentId">ID del estudiante.</param>
+            <returns><see cref="T:Entities.StudentGrade"/>></returns>
+        </member>
         <member name="M:SchoolAPI.Controllers.StudentsController.GetAllStudents">
             <summary>
             Retorna una lista de todos los estudiantes.

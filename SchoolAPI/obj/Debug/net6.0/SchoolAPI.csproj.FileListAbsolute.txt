@@ -1,3 +1,9 @@
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.csproj.AssemblyReference.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.AssemblyInfoInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.AssemblyInfo.cs
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.csproj.CoreCompileInputs.cache
+C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\SchoolAPI.exe
@@ -24,13 +30,6 @@ C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolA
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\Entities.pdb
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\SchoolBLL.pdb
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\bin\Debug\net6.0\SchoolDAL.pdb
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.csproj.AssemblyReference.cache
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.AssemblyInfoInputs.cache
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.AssemblyInfo.cs
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.csproj.CoreCompileInputs.cache
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\SchoolAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\staticwebassets\msbuild.SchoolAPI.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SchoolAPI.props
 C:\Users\johnh\OneDrive\Escritorio\Languages\Proyecto Internet\SchoolAPI\SchoolAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SchoolAPI.props

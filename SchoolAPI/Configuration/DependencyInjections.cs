@@ -14,6 +14,7 @@ namespace SchoolAPI.Configuration
             services.AddScoped<IEnrollmentBLL, EnrollmentBLL>();
             services.AddScoped<IGradeBLL, GradeBLL>();
             services.AddScoped<IEvaluationBLL, EvaluationBLL>();
+            services.AddScoped<IStudentGradeBLL, StudentGradeBLL>();
         }
     }
 }
